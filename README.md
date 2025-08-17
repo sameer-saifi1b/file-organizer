@@ -1,12 +1,4 @@
-git branch -M main
-git remote add origin https://github.com/yourusername/file-organizer.git
-git push -u origin main
-5. Add a README
-Create a README.md file so visitors understand your project:
 
-markdown
-Copy
-Edit
 # File Organizer 📂
 
 A simple Python script that organizes files in any folder by type (Images, Documents, Videos, etc.).
@@ -19,8 +11,6 @@ A simple Python script that organizes files in any folder by type (Images, Docum
 Run the script:
 
 bash
-Copy
-Edit
 python3 file_organizer.py /path/to/folder
 Or create an Automator app on macOS to drag & drop folders.
 
@@ -30,10 +20,6 @@ Organizes by file type (images, docs, videos, etc.)
 Works on any folder
 
 Can be connected to Automator for drag & drop support
-
-yaml
-Copy
-Edit
 
 ---
 
